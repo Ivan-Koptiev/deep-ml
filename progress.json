@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:28:38.571Z",
+  "generated_at": "2026-09-16T18:28:41.178Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2025-01-05T03:25:17.639Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2025-01-11T02:45:00.024Z",
+      "last_pushed_at": "2025-01-11T02:45:00.024Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2025-01-11T15:48:07.818Z",
+      "last_pushed_at": "2025-01-11T15:48:07.818Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
