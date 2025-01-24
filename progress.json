@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:28:42.925Z",
+  "generated_at": "2026-09-16T18:28:44.665Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2025-01-18T21:43:50.147Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2025-01-24T15:32:11.062Z",
+      "last_pushed_at": "2025-01-24T15:32:11.062Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-01-24T15:41:24.172Z",
+      "last_pushed_at": "2025-01-24T15:41:24.172Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
