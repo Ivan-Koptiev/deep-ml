@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:28:48.232Z",
+  "generated_at": "2026-09-16T18:28:50.123Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -156,6 +156,58 @@
       "last_pushed_at": "2025-01-30T18:49:31.106Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-01-31T18:06:37.277Z",
+      "last_pushed_at": "2025-01-31T18:06:37.277Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2025-01-31T18:09:29.462Z",
+      "last_pushed_at": "2025-01-31T18:09:29.462Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2025-01-31T18:27:40.078Z",
+      "last_pushed_at": "2025-01-31T18:27:40.078Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2025-01-31T18:31:11.952Z",
+      "last_pushed_at": "2025-01-31T18:31:11.952Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
