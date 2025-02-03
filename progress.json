@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:28:52.089Z",
+  "generated_at": "2026-10-07T13:58:27.935Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -221,6 +221,58 @@
       "last_pushed_at": "2025-02-01T16:38:01.934Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2025-02-03T18:05:52.058Z",
+      "last_pushed_at": "2025-02-03T18:05:52.058Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2025-02-03T18:07:54.677Z",
+      "last_pushed_at": "2025-02-03T18:07:54.677Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2025-02-03T18:09:19.368Z",
+      "last_pushed_at": "2025-02-03T18:09:19.368Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2025-02-03T18:56:25.812Z",
+      "last_pushed_at": "2025-02-03T18:56:25.812Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
