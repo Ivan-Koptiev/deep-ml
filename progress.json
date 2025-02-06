@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:58:32.157Z",
+  "generated_at": "2026-10-07T13:58:34.295Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -351,6 +351,45 @@
       "last_pushed_at": "2025-02-05T18:47:15.077Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-02-06T02:43:28.287Z",
+      "last_pushed_at": "2025-02-06T02:43:28.287Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2025-02-06T02:54:16.638Z",
+      "last_pushed_at": "2025-02-06T02:54:16.638Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2025-02-06T03:19:49.662Z",
+      "last_pushed_at": "2025-02-06T03:19:49.662Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
