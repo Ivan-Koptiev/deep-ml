@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:58:34.295Z",
+  "generated_at": "2026-10-07T13:58:36.248Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -390,6 +390,45 @@
       "last_pushed_at": "2025-02-06T03:19:49.662Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2025-02-07T17:16:29.890Z",
+      "last_pushed_at": "2025-02-07T17:16:29.890Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2025-02-07T17:45:23.931Z",
+      "last_pushed_at": "2025-02-07T17:45:23.931Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2025-02-07T18:23:12.373Z",
+      "last_pushed_at": "2025-02-07T18:23:12.373Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
