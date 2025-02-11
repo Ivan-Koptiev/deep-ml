@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:58:38.419Z",
+  "generated_at": "2026-10-07T13:58:40.361Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -442,6 +442,45 @@
       "last_pushed_at": "2025-02-09T00:16:52.256Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2025-02-11T17:43:29.850Z",
+      "last_pushed_at": "2025-02-11T17:43:29.850Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-02-11T18:39:26.903Z",
+      "last_pushed_at": "2025-02-11T18:39:26.903Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-02-11T18:44:21.608Z",
+      "last_pushed_at": "2025-02-11T18:44:21.608Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
