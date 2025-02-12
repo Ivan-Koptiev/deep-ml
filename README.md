@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**41** solved · 41 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,9 +13,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-02-06 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-02-12 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-02-12 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2024-12-30 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-02-11 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-02-11 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-02-12 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-02-05 | [solution](problems/0016-feature-scaling-implementation) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-01-28 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-01-31 | [solution](problems/0042-implement-relu-activation-function) |
@@ -45,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-01-04 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-01-18 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-01-11 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-02-12 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-02-06 | [solution](problems/0007-matrix-transformation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-01-11 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-01-05 | [solution](problems/0025-single-neuron-with-backpropagation) |
