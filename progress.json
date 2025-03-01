@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:58:54.675Z",
+  "generated_at": "2026-10-07T13:58:56.931Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -637,6 +637,136 @@
       "last_pushed_at": "2025-02-27T18:45:29.490Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2025-03-01T02:12:12.022Z",
+      "last_pushed_at": "2025-03-01T02:12:12.022Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-03-01T16:33:34.126Z",
+      "last_pushed_at": "2025-03-01T16:33:34.126Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2025-03-01T17:16:56.643Z",
+      "last_pushed_at": "2025-03-01T17:16:56.643Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2025-03-01T17:21:45.327Z",
+      "last_pushed_at": "2025-03-01T17:21:45.327Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2025-03-01T17:28:02.679Z",
+      "last_pushed_at": "2025-03-01T17:28:02.679Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-03-01T17:34:10.863Z",
+      "last_pushed_at": "2025-03-01T17:34:10.863Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-03-01T17:51:44.188Z",
+      "last_pushed_at": "2025-03-01T17:51:44.188Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2025-03-01T17:57:24.551Z",
+      "last_pushed_at": "2025-03-01T17:57:24.551Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-03-01T18:44:53.751Z",
+      "last_pushed_at": "2025-03-01T18:44:53.751Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2025-03-01T18:49:51.372Z",
+      "last_pushed_at": "2025-03-01T18:49:51.372Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
