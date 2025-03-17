@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:59:46.693Z",
+  "generated_at": "2026-10-07T13:59:48.852Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -949,6 +949,58 @@
       "last_pushed_at": "2025-03-14T17:56:48.441Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2025-03-17T16:47:20.724Z",
+      "last_pushed_at": "2025-03-17T16:47:20.724Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2025-03-17T16:54:16.970Z",
+      "last_pushed_at": "2025-03-17T16:54:16.970Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2025-03-17T17:39:31.884Z",
+      "last_pushed_at": "2025-03-17T17:39:31.884Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2025-03-17T17:54:55.775Z",
+      "last_pushed_at": "2025-03-17T17:54:55.775Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
