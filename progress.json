@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:59:48.852Z",
+  "generated_at": "2026-10-07T13:59:50.710Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1001,6 +1001,32 @@
       "last_pushed_at": "2025-03-17T17:54:55.775Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:89": {
+      "kind": "problem",
+      "id": "89",
+      "title": "The Pattern Weaver's Code",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/89",
+      "path": "problems/0089-the-pattern-weaver-s-code",
+      "first_solved_at": "2025-03-18T17:25:31.264Z",
+      "last_pushed_at": "2025-03-18T17:25:31.264Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2025-03-18T17:32:06.483Z",
+      "last_pushed_at": "2025-03-18T17:32:06.483Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
