@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:59:52.401Z",
+  "generated_at": "2026-10-07T13:59:54.060Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1040,6 +1040,32 @@
       "last_pushed_at": "2025-03-21T17:13:49.080Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-03-25T16:44:18.970Z",
+      "last_pushed_at": "2025-03-25T16:44:18.970Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2025-03-25T16:53:47.841Z",
+      "last_pushed_at": "2025-03-25T16:53:47.841Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
