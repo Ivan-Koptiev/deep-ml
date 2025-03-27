@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:59:56.162Z",
+  "generated_at": "2026-10-07T13:59:57.868Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1079,6 +1079,45 @@
       "last_pushed_at": "2025-03-26T17:56:42.108Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2025-03-27T16:44:32.121Z",
+      "last_pushed_at": "2025-03-27T16:44:32.121Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2025-03-27T17:09:02.343Z",
+      "last_pushed_at": "2025-03-27T17:09:02.343Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2025-03-27T17:30:54.549Z",
+      "last_pushed_at": "2025-03-27T17:30:54.549Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

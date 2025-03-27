@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 83 problems · 0 labs · 0 math
+**86** solved · 86 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,10 +34,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-02-05 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2025-02-27 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-01-28 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-03-27 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2025-03-13 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2025-03-12 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-03-01 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2025-03-03 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2025-03-27 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2025-03-13 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2025-02-26 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-03-01 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
@@ -78,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-03-18 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-03-21 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-01-18 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-03-27 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-03-07 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-01-24 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-02-24 | [solution](problems/0107-implement-masked-self-attention) |
