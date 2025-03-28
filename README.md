@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 86 problems · 0 labs · 0 math
+**90** solved · 90 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,13 +74,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2025-03-06 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-02-07 | [solution](problems/0087-adam-optimizer) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-02-13 | [solution](problems/0079-binomial-distribution-probability) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-03-28 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-02-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-02-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-03-25 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-03-18 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-03-21 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-03-28 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-01-18 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-03-27 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-03-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2025-03-28 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-03-07 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-01-24 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-02-24 | [solution](problems/0107-implement-masked-self-attention) |

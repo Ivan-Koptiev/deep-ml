@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:59:57.868Z",
+  "generated_at": "2026-10-07T13:59:59.856Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1118,6 +1118,58 @@
       "last_pushed_at": "2025-03-27T17:30:54.549Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:90": {
+      "kind": "problem",
+      "id": "90",
+      "title": "BM25 Ranking ",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/90",
+      "path": "problems/0090-bm25-ranking",
+      "first_solved_at": "2025-03-28T16:17:09.139Z",
+      "last_pushed_at": "2025-03-28T16:17:09.139Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2025-03-28T16:27:22.268Z",
+      "last_pushed_at": "2025-03-28T16:27:22.268Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2025-03-28T17:10:52.465Z",
+      "last_pushed_at": "2025-03-28T17:10:52.465Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2025-03-28T17:48:33.591Z",
+      "last_pushed_at": "2025-03-28T17:48:33.591Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
