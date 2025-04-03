@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**92** solved · 92 problems · 0 labs · 0 math
+**94** solved · 94 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-03-01 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-03-01 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-03-17 | [solution](problems/0095-calculate-the-phi-coefficient) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-02-11 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-04-02 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-02-27 | [solution](problems/0078-descriptive-statistics-calculator) |
@@ -103,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-01-11 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-01-05 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-02-07 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-03 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-03-18 | [solution](problems/0089-the-pattern-weaver-s-code) |
 
 ---
