@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:04.784Z",
+  "generated_at": "2026-10-07T14:00:07.649Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1222,6 +1222,32 @@
       "last_pushed_at": "2025-04-03T17:39:10.518Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2025-04-04T16:44:19.277Z",
+      "last_pushed_at": "2025-04-04T16:44:19.277Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2025-04-04T17:23:23.572Z",
+      "last_pushed_at": "2025-04-04T17:23:23.572Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
