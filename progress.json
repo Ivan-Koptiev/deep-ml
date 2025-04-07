@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:07.649Z",
+  "generated_at": "2026-10-07T14:00:09.650Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1248,6 +1248,32 @@
       "last_pushed_at": "2025-04-04T17:23:23.572Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2025-04-07T17:01:07.434Z",
+      "last_pushed_at": "2025-04-07T17:01:07.434Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2025-04-07T17:28:34.118Z",
+      "last_pushed_at": "2025-04-07T17:28:34.118Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
