@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:17.531Z",
+  "generated_at": "2026-10-07T14:00:19.424Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1324,6 +1324,19 @@
       "path": "problems/0124-implement-the-noisy-top-k-gating-function",
       "first_solved_at": "2025-04-20T15:30:43.250Z",
       "last_pushed_at": "2025-04-20T15:30:43.250Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2025-04-21T17:42:55.797Z",
+      "last_pushed_at": "2025-04-21T17:42:55.797Z",
       "language": "python",
       "lines": 35
     }
