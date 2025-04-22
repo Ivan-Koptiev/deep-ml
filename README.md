@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 103 problems · 0 labs · 0 math
+**104** solved · 104 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-03-25 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-03-18 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-03-21 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-04-22 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-04-04 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2025-04-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-03-28 | [solution](problems/0032-generate-sorted-polynomial-features) |
