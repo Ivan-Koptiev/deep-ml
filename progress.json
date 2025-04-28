@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:23.153Z",
+  "generated_at": "2026-10-07T14:00:25.552Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1365,6 +1365,32 @@
       "last_pushed_at": "2025-04-23T15:25:52.898Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2025-04-28T17:27:30.922Z",
+      "last_pushed_at": "2025-04-28T17:27:30.922Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2025-04-28T22:31:07.508Z",
+      "last_pushed_at": "2025-04-28T22:31:07.508Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
