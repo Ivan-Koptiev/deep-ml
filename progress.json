@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:38.871Z",
+  "generated_at": "2026-10-07T14:00:40.636Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1508,6 +1508,32 @@
       "last_pushed_at": "2025-05-27T17:31:22.005Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:136": {
+      "kind": "problem",
+      "id": "136",
+      "title": "Calculate KL Divergence Between Two Multivariate Gaussian Distributions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/136",
+      "path": "problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions",
+      "first_solved_at": "2025-05-28T15:14:52.589Z",
+      "last_pushed_at": "2025-05-28T15:14:52.589Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:135": {
+      "kind": "problem",
+      "id": "135",
+      "title": "Implement Early Stopping Based on Validation Loss",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/135",
+      "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
+      "first_solved_at": "2025-05-28T15:38:11.490Z",
+      "last_pushed_at": "2025-05-28T15:38:11.490Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
