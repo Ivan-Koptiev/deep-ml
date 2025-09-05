@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:00:59.260Z",
+  "generated_at": "2026-10-07T14:01:01.285Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1547,6 +1547,45 @@
       "last_pushed_at": "2025-07-11T15:54:14.506Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2025-09-05T14:04:02.698Z",
+      "last_pushed_at": "2025-09-05T14:04:02.698Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2025-09-05T14:12:47.459Z",
+      "last_pushed_at": "2025-09-05T14:12:47.459Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2025-09-05T14:15:57.146Z",
+      "last_pushed_at": "2025-09-05T14:15:57.146Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
