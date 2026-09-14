@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:01:03.223Z",
+  "generated_at": "2026-10-07T14:01:05.039Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1599,6 +1599,87 @@
       "last_pushed_at": "2026-01-16T12:29:19.158Z",
       "language": "python",
       "lines": 26
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-14T17:42:46.640Z",
+      "last_pushed_at": "2026-09-14T17:42:46.640Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-14T18:46:29.733Z",
+      "last_pushed_at": "2026-09-14T18:46:29.733Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-14T18:56:58.585Z",
+      "last_pushed_at": "2026-09-14T18:56:58.585Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-14T19:00:47.357Z",
+      "last_pushed_at": "2026-09-14T19:00:47.357Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-09-14T19:14:43.822Z",
+      "last_pushed_at": "2026-09-14T19:14:43.822Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-14T19:54:41.574Z",
+      "last_pushed_at": "2026-09-14T19:54:41.574Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-09-14T20:10:46.561Z",
+      "last_pushed_at": "2026-09-14T20:10:46.561Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
