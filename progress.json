@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:01:08.929Z",
+  "generated_at": "2026-10-07T14:01:10.890Z",
   "items": {
     "problem:70": {
       "kind": "problem",
@@ -1609,7 +1609,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-14T17:42:46.640Z",
-      "last_pushed_at": "2026-09-14T17:42:46.640Z"
+      "last_pushed_at": "2026-10-07T14:01:10.888Z"
     },
     "math:34": {
       "kind": "math",
@@ -1620,7 +1620,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-09-14T18:46:29.733Z",
-      "last_pushed_at": "2026-09-14T18:46:29.733Z"
+      "last_pushed_at": "2026-10-07T14:01:10.888Z"
     },
     "math:5": {
       "kind": "math",
@@ -1631,7 +1631,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-14T18:56:58.585Z",
-      "last_pushed_at": "2026-09-14T18:56:58.585Z"
+      "last_pushed_at": "2026-10-07T14:01:10.888Z"
     },
     "math:18": {
       "kind": "math",
@@ -1642,7 +1642,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-09-14T19:00:47.357Z",
-      "last_pushed_at": "2026-09-14T19:00:47.357Z"
+      "last_pushed_at": "2026-10-07T14:01:10.888Z"
     },
     "math:33": {
       "kind": "math",
@@ -1653,7 +1653,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-09-14T19:14:43.822Z",
-      "last_pushed_at": "2026-09-14T19:14:43.822Z"
+      "last_pushed_at": "2026-10-07T14:01:10.888Z"
     },
     "problem:1058": {
       "kind": "problem",
@@ -1706,6 +1706,17 @@
       "last_pushed_at": "2026-09-16T18:27:51.387Z",
       "language": "python",
       "lines": 42
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-07T14:01:10.888Z",
+      "last_pushed_at": "2026-10-07T14:01:10.888Z"
     }
   }
 }
