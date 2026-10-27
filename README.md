@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**135** solved · 129 problems · 0 labs · 6 math
+**136** solved · 130 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-27 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-03-17 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2025-04-07 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-03-10 | [solution](problems/0104-binary-classification-with-logistic-regression) |
