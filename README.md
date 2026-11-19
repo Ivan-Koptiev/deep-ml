@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**147** solved · 141 problems · 0 labs · 6 math
+**148** solved · 142 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -153,6 +153,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-03 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-14 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-03-18 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-19 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Math
 
